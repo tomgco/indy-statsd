@@ -1,6 +1,6 @@
 {
   "name": "indy-statsd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Statsd Dispatcher for indy.",
   "main": "dispatcher.js",
   "scripts": {
